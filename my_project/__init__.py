@@ -1,3 +1,3 @@
-from .indicator_strategy import indicator_signal
+from .strategies.indicator_strategy import indicator_signal
 
 __all__ = ["indicator_signal"]
